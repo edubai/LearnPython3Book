@@ -1,3 +1,6 @@
+"""A simple python script to calculate Age
+Author: Mohamed"""
+
 import datetime
 
 year_born = int(input("What year were you born? "))
